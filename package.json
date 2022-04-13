@@ -30,7 +30,7 @@
     "@nuxt/typescript-build": "^2.1.0",
     "@nuxtjs/markdownit": "^2.0.0",
     "@nuxtjs/tailwindcss": "^4.2.1",
-    "frontmatter-markdown-loader": "^3.6.3",
+    "frontmatter-markdown-loader": "^3.7.0",
     "postcss": "^8.4.4"
   }
 }
