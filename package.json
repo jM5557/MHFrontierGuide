@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d dist --dotfiles"
   },
   "dependencies": {
-    "@nuxt/content": "^1.15.1",
+    "@nuxt/content": "^2.1.1",
     "@nuxtjs/style-resources": "^1.2.1",
     "@nuxtjs/svg": "^0.3.0",
     "core-js": "^3.19.3",
