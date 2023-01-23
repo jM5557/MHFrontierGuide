@@ -14,7 +14,7 @@
     "@nuxtjs/style-resources": "^1.2.1",
     "@nuxtjs/svg": "^0.3.0",
     "core-js": "^3.19.3",
-    "gh-pages": "^3.2.3",
+    "gh-pages": "^5.0.0",
     "node-sass": "^7.0.1",
     "nuxt": "^2.15.8",
     "push-dir": "^0.4.1",
